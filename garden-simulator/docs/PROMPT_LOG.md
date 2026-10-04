@@ -1,6 +1,4 @@
 # PROMPT LOG
-> Edit the prompts below to match what YOU actually asked. Use the RTCC format (Role, Task, Context, Constraints).
-
 | Version | Prompt / Request |
 |---|---|
 | v0.1.0 | "Act as an expert Python DSA developer. Using the starter garden simulator HTML, write a `ResourceStorage` class and `Crop` class that run in Pyodide and update the Resource panel. Use only Tailwind, Lucide, Pyodide and vanilla JS." |
